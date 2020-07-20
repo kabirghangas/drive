@@ -1,1 +1,2 @@
 hey this is a new file about the github repository and few features about the initial commint in to the zone 
+this is second commit .
